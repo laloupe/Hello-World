@@ -1,2 +1,5 @@
 # Hello-World
-Main folder with everything I may need
+
+Well, well, well! This is Beatriz (B) a fashion photography student, far away from being fancy and diva, looking to immerse myself into new technologies.
+
+Also, I love chocolate.
